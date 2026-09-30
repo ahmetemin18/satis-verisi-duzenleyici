@@ -27,6 +27,8 @@ Küçük işletmelerin satış tabloları genelde elle doldurulur ve zamanla da�
 - **Özet:** genel özet, en çok sipariş veren 3 müşteri, şehirlere göre, ürünlere göre ve aylara göre ciro
 - **Temiz Veri:** düzeltilmiş tüm siparişler
 
+<img width="380" height="647" alt="Ekran görüntüsü 2026-09-30 135208" src="https://github.com/user-attachments/assets/6c38ae0b-58b1-4893-b78e-ecd553827837" />
+
 ## Kurulum ve kullanım
 
 ```bash
