@@ -1,0 +1,209 @@
+﻿Sipariş No;Tarih;Müşteri;Şehir;Ürün;Adet;Birim Fiyat;Tutar
+S0077;27/01/2024;Can Polat;İstanbul;Powerbank;2;600;1.200,00 TL
+S0093;08.02.2024;Zeynep Demir;İstanbul;Powerbank;1;600;600.00
+S0038;19/05/2024;Can Polat;IZMIR;Telefon Kılıfı;4;150;600,00 TL
+S0071;16.02.2024;Ayşe Yılmaz;Bursa;Telefon Kılıfı;4;150;600 TL
+S0028;20/01/2024;Hasan Aydın;İzmir;Akıllı Saat;2;2400;4.800,00 TL
+S0105;14/03/2024;Selin Aksoy;İzmir;Akıllı Saat;4;2400;9.600 TL
+S0129;14.03.2024;Ali Çelik;Antalya;Bluetooth Hoparlör;4;1250;5000.00
+S0002;2024-02-25;Ali Çelik;istanbul;Kablosuz Kulaklık;1;850;850 TL
+S0135;2024-06-12; Mustafa Arslan  ;izmir;Powerbank;4;600;2.400,00 TL
+S0150;16.03.2024;Hasan Aydın;Bursa;Powerbank;5;600;3.000,00 TL
+S0054;2024-06-27;Fatma Şahin;bursa;Şarj Aleti;4;250;1.000 TL
+S0196;01/02/2024;Ayşe Yılmaz;IZMIR;Telefon Kılıfı;3;150;450 TL
+S0061;2024-04-28;Ayşe Yılmaz;ankara;Bluetooth Hoparlör;5;1250;6250.00
+S0142;2024-01-06;Ayşe Yılmaz;Ankara;Bluetooth Hoparlör;5;1250;6250.00
+S0007;26/01/2024;Elif Koç;izmir;Kablosuz Kulaklık;2;850;1700.00
+S0197;01/06/2024; Emine Öztürk  ;istanbul;Kablosuz Kulaklık;4;850;3400.00
+S0039;2024-02-04; Fatma Şahin  ;Antalya;Şarj Aleti;1;250;₺250,00
+S0003;2024-03-12;Ayşe Yılmaz;ANKARA;Akıllı Saat;5;2400;12.000 TL
+S0030;01.01.2024;Elif Koç;ISTANBUL;Telefon Kılıfı;4;150;600 TL
+S0042;11/02/2024;Can Polat;ankara;Bluetooth Hoparlör;3;1250;3.750,00 TL
+S0143;2024-05-30;Ali Çelik;ISTANBUL;Powerbank;2;600;1200.00
+S0025;18.02.2024; Mehmet Kaya  ;ankara;Akıllı Saat;4;2400;9.600 TL
+S0060;2024-06-16; Can Polat  ;bursa;Telefon Kılıfı;2;150;300.00
+S0184;2024-01-05;Mustafa Arslan;bursa;Powerbank;3;600;1.800 TL
+S0037;2024-03-08;Zeynep Demir;Antalya;Telefon Kılıfı;5;150;₺750,00
+S0001;2024-03-03; Ali Çelik  ;İstanbul;Kablosuz Kulaklık;3;850;2.550 TL
+S0107;12.05.2024;Mustafa Arslan;bursa;Kablosuz Kulaklık;2;850;1.700,00 TL
+S0164;2024-01-15;Ayşe Yılmaz;Ankara;Akıllı Saat;5;2400;₺12.000,00
+S0075;2024-06-28;Fatma Şahin;Antalya;Telefon Kılıfı;4;150;600.00
+S0157;21/06/2024;Selin Aksoy;antalya;Powerbank;5;600;3.000,00 TL
+S0026;2024-06-21;Selin Aksoy;Bursa;Akıllı Saat;1;2400;2.400 TL
+S0120;2024-05-18;Ayşe Yılmaz;IZMIR;Bluetooth Hoparlör;4;1250;₺5.000,00
+S0055;2024-03-18;Elif Koç;ankara;Powerbank;5;600;₺3.000,00
+S0072;2024-03-12;Elif Koç;izmir;Şarj Aleti;4;250;1.000,00 TL
+S0033;2024-01-18; Burak Kurt  ;antalya;Kablosuz Kulaklık;2;850;1.700,00 TL
+S0156;30.03.2024;Emine Öztürk;Bursa;Telefon Kılıfı;1;150;150 TL
+S0167;27/04/2024;Mehmet Kaya;Istanbul;Akıllı Saat;1;2400;2.400 TL
+S0170;2024-02-26;Mustafa Arslan;IZMIR;Bluetooth Hoparlör;3;1250;3.750,00 TL
+S0139;16.04.2024; Selin Aksoy  ;antalya;Bluetooth Hoparlör;2;1250;₺2.500,00
+S0059;16/04/2024;Selin Aksoy;antalya;Kablosuz Kulaklık;4;850;3.400 TL
+S0178;2024-05-09;Selin Aksoy;Istanbul;Şarj Aleti;1;250;250 TL
+S0168;2024-04-13;Ayşe Yılmaz;bursa;Şarj Aleti;1;250;₺250,00
+S0053;2024-06-08;Mustafa Arslan;bursa;Kablosuz Kulaklık;3;850;₺2.550,00
+S0023;28.02.2024;Mehmet Kaya;İstanbul;Kablosuz Kulaklık;1;850;850.00
+S0146;14.05.2024;Mehmet Kaya;ankara;Bluetooth Hoparlör;4;1250;₺5.000,00
+S0106;23.03.2024;Mehmet Kaya;İstanbul;Şarj Aleti;3;250;750 TL
+S0044;2024-04-03;Ayşe Yılmaz;ANKARA;Kablosuz Kulaklık;3;850;2550.00
+S0181;13/03/2024;Fatma Şahin;Antalya;Bluetooth Hoparlör;4;1250;₺5.000,00
+S0141;2024-01-16;Elif Koç;izmir;Powerbank;3;600;1.800,00 TL
+S0063;25/04/2024;Fatma Şahin;ankara;Bluetooth Hoparlör;4;1250;5.000 TL
+S0172;20/02/2024;Zeynep Demir;İstanbul;Telefon Kılıfı;3;150;450.00
+S0135;2024-06-12; Mustafa Arslan  ;izmir;Powerbank;4;600;2.400,00 TL
+S0088;25/06/2024;Zeynep Demir;izmir;Kablosuz Kulaklık;5;850;₺4.250,00
+S0145;2024-03-01;Burak Kurt;ankara;Kablosuz Kulaklık;3;850;2.550,00 TL
+S0151;20.04.2024;Hasan Aydın;antalya;Bluetooth Hoparlör;2;1250;2.500 TL
+S0158;2024-03-27; Mustafa Arslan  ;ANKARA;Şarj Aleti;3;250;750 TL
+S0127;03/05/2024;Mehmet Kaya;izmir;Telefon Kılıfı;4;150;₺600,00
+S0125;27.04.2024;Fatma Şahin;ankara;Akıllı Saat;3;2400;7200.00
+S0101;20.04.2024;Can Polat;İstanbul;Powerbank;1;600;600,00 TL
+S0040;28.03.2024;Ali Çelik;IZMIR;Powerbank;2;600;1.200 TL
+S0014;01/06/2024;Mehmet Kaya;ankara;Bluetooth Hoparlör;4;1250;₺5.000,00
+S0029;01.03.2024;Zeynep Demir;Antalya;Kablosuz Kulaklık;1;850;850 TL
+S0183;20.03.2024;Emine Öztürk;Antalya;Bluetooth Hoparlör;1;1250;1.250,00 TL
+S0012;23/05/2024;Emine Öztürk;izmir;Telefon Kılıfı;2;150;300 TL
+S0034;01.06.2024;Ayşe Yılmaz;antalya;Telefon Kılıfı;5;150;₺750,00
+S0016;26/04/2024;Ayşe Yılmaz;izmir;Akıllı Saat;2;2400;4800.00
+S0090;2024-05-16;Zeynep Demir;ANKARA;Şarj Aleti;1;250;₺250,00
+S0067;27.05.2024;Elif Koç;antalya;Bluetooth Hoparlör;1;1250;1.250 TL
+S0064;20.01.2024;Can Polat;ankara;Şarj Aleti;4;250;₺1.000,00
+S0024;24/02/2024; Emine Öztürk  ;IZMIR;Bluetooth Hoparlör;4;1250;5.000 TL
+S0114;03/05/2024;Mustafa Arslan;ankara;Akıllı Saat;5;2400;12.000 TL
+S0015;23/06/2024;Emine Öztürk;antalya;Kablosuz Kulaklık;1;850;850,00 TL
+S0155;2024-03-14;Burak Kurt;Bursa;Bluetooth Hoparlör;1;1250;1250.00
+S0116;08/04/2024;Selin Aksoy;Bursa;Bluetooth Hoparlör;4;1250;5.000 TL
+S0041;2024-06-11;Elif Koç;İzmir;Kablosuz Kulaklık;1;850;₺850,00
+S0051;10/05/2024;Mehmet Kaya;İzmir;Akıllı Saat;5;2400;₺12.000,00
+S0193;2024-02-27;Ayşe Yılmaz;bursa;Kablosuz Kulaklık;3;850;2550.00
+S0068;03.06.2024;Ali Çelik;bursa;Powerbank;5;600;3.000 TL
+S0018;2024-06-02;Mustafa Arslan;antalya;Powerbank;1;600;₺600,00
+S0160;20/03/2024;Can Polat;IZMIR;Telefon Kılıfı;3;150;450,00 TL
+S0121;21/04/2024;Mehmet Kaya;Ankara;Bluetooth Hoparlör;1;1250;1.250 TL
+S0098;2024-03-08;Selin Aksoy;Istanbul;Bluetooth Hoparlör;2;1250;2.500,00 TL
+S0144;2024-02-07;Zeynep Demir;Antalya;Kablosuz Kulaklık;3;850;2.550,00 TL
+S0148;16.01.2024;Hasan Aydın;Bursa;Bluetooth Hoparlör;1;1250;1.250 TL
+S0124;07.04.2024;Burak Kurt;ANKARA;Kablosuz Kulaklık;5;850;4250.00
+S0020;20/05/2024;Zeynep Demir;ankara;Bluetooth Hoparlör;4;1250;5000.00
+S0121;21/04/2024;Mehmet Kaya;Ankara;Bluetooth Hoparlör;1;1250;1.250 TL
+S0097;30.04.2024; Fatma Şahin  ;bursa;Akıllı Saat;5;2400;12.000 TL
+S0073;27/02/2024; Selin Aksoy  ;Antalya;Kablosuz Kulaklık;3;850;2.550,00 TL
+S0050;28/05/2024; Fatma Şahin  ;Istanbul;Şarj Aleti;2;250;₺500,00
+S0159;24.01.2024;Can Polat;Istanbul;Telefon Kılıfı;1;150;150 TL
+S0108;03/02/2024;Fatma Şahin;ankara;Şarj Aleti;5;250;1.250,00 TL
+S0136;05/06/2024;Ali Çelik;antalya;Powerbank;3;600;₺1.800,00
+S0031;2024-02-09;Ali Çelik;Antalya;Bluetooth Hoparlör;4;1250;₺5.000,00
+S0009;16.05.2024;Can Polat;antalya;Bluetooth Hoparlör;2;1250;₺2.500,00
+S0177;2024-03-23;Burak Kurt;Antalya;Bluetooth Hoparlör;2;1250;2.500 TL
+S0130;09/06/2024;Mehmet Kaya;Antalya;Şarj Aleti;2;250;₺500,00
+S0126;30.05.2024;Fatma Şahin;ISTANBUL;Akıllı Saat;3;2400;7.200 TL
+S0104;30/03/2024;Elif Koç;Bursa;Kablosuz Kulaklık;4;850;3400.00
+S0078;18/06/2024; Mustafa Arslan  ;izmir;Powerbank;4;600;2.400,00 TL
+S0019;25.05.2024; Mehmet Kaya  ;Ankara;Kablosuz Kulaklık;2;850;1700.00
+S0004;25.02.2024; Mustafa Arslan  ;İzmir;Şarj Aleti;2;250;₺500,00
+S0134;2024-04-11;Ayşe Yılmaz;antalya;Şarj Aleti;1;250;₺250,00
+S0194;30/04/2024;Can Polat;ankara;Kablosuz Kulaklık;3;850;2.550 TL
+S0100;25.06.2024;Fatma Şahin;bursa;Kablosuz Kulaklık;4;850;3.400 TL
+S0152;21.03.2024;Elif Koç;bursa;Akıllı Saat;1;2400;2400.00
+S0066;2024-05-18;Hasan Aydın;bursa;Akıllı Saat;3;2400;7.200 TL
+S0138;09/04/2024;Hasan Aydın;ANKARA;Powerbank;2;600;1.200 TL
+S0171;30/03/2024;Mustafa Arslan;Antalya;Powerbank;2;600;1200.00
+S0130;09/06/2024;Mehmet Kaya;Antalya;Şarj Aleti;2;250;₺500,00
+S0142;2024-01-06;Ayşe Yılmaz;Ankara;Bluetooth Hoparlör;5;1250;6250.00
+S0180;2024-01-14;Selin Aksoy;izmir;Bluetooth Hoparlör;5;1250;6.250,00 TL
+S0008;20/06/2024;Fatma Şahin;IZMIR;Şarj Aleti;2;250;500,00 TL
+S0166;08.05.2024;Emine Öztürk;Antalya;Bluetooth Hoparlör;2;1250;2.500 TL
+S0082;2024-06-05;Selin Aksoy;ankara;Akıllı Saat;5;2400;₺12.000,00
+S0036;03/01/2024;Hasan Aydın;Bursa;Şarj Aleti;1;250;250,00 TL
+S0056;04.06.2024;Selin Aksoy;ankara;Akıllı Saat;5;2400;12000.00
+S0131;03.04.2024; Can Polat  ;bursa;Kablosuz Kulaklık;5;850;4.250 TL
+S0046;26/03/2024;Elif Koç;Bursa;Kablosuz Kulaklık;2;850;₺1.700,00
+S0117;31.05.2024;Mustafa Arslan;İstanbul;Telefon Kılıfı;5;150;750 TL
+S0153;22/01/2024;Mehmet Kaya;bursa;Kablosuz Kulaklık;1;850;850.00
+S0094;2024-06-04;Burak Kurt;Istanbul;Powerbank;4;600;2.400 TL
+S0006;2024-04-02;Burak Kurt;Antalya;Şarj Aleti;5;250;1250.00
+S0058;2024-02-27; Ali Çelik  ;Ankara;Bluetooth Hoparlör;3;1250;3.750 TL
+S0185;2024-02-09;Mehmet Kaya;ANKARA;Telefon Kılıfı;2;150;300,00 TL
+S0057;17/06/2024;Mehmet Kaya;antalya;Akıllı Saat;2;2400;4.800,00 TL
+S0093;08.02.2024;Zeynep Demir;İstanbul;Powerbank;1;600;600.00
+S0043;19/05/2024;Ayşe Yılmaz;istanbul;Kablosuz Kulaklık;2;850;1.700 TL
+S0110;2024-04-28;Mehmet Kaya;Istanbul;Telefon Kılıfı;1;150;₺150,00
+S0115;26.05.2024;Elif Koç;İzmir;Telefon Kılıfı;2;150;₺300,00
+S0079;20.04.2024;Mustafa Arslan;Bursa;Akıllı Saat;1;2400;2.400 TL
+S0137;12.01.2024;Ayşe Yılmaz;Bursa;Kablosuz Kulaklık;2;850;1.700,00 TL
+S0084;18.02.2024;Mehmet Kaya;antalya;Kablosuz Kulaklık;5;850;4250.00
+S0186;2024-06-01;Elif Koç;IZMIR;Powerbank;2;600;1200.00
+S0195;2024-01-05;Fatma Şahin;antalya;Kablosuz Kulaklık;1;850;850,00 TL
+S0083;31/03/2024;Fatma Şahin;ANKARA;Akıllı Saat;2;2400;₺4.800,00
+S0174;30.04.2024;Hasan Aydın;ANKARA;Akıllı Saat;1;2400;2.400,00 TL
+S0182;30/03/2024;Fatma Şahin;Istanbul;Powerbank;2;600;1200.00
+S0111;2024-04-16;Hasan Aydın;antalya;Bluetooth Hoparlör;3;1250;3750.00
+S0021;20/03/2024;Elif Koç;antalya;Bluetooth Hoparlör;2;1250;2.500 TL
+S0109;02/03/2024;Can Polat;İstanbul;Bluetooth Hoparlör;5;1250;6.250 TL
+S0022;2024-03-04; Ali Çelik  ;Antalya;Akıllı Saat;1;2400;2400.00
+S0069;20/06/2024;Selin Aksoy;istanbul;Akıllı Saat;3;2400;7.200 TL
+S0133;2024-01-30;Hasan Aydın;Bursa;Şarj Aleti;3;250;750 TL
+S0154;2024-05-23;Emine Öztürk;antalya;Kablosuz Kulaklık;5;850;₺4.250,00
+S0147;25/04/2024;Emine Öztürk;Antalya;Powerbank;1;600;₺600,00
+S0128;11/03/2024;Ayşe Yılmaz;IZMIR;Kablosuz Kulaklık;4;850;3.400,00 TL
+S0048;27.02.2024;Ayşe Yılmaz;izmir;Şarj Aleti;2;250;₺500,00
+S0187;03.04.2024;Selin Aksoy;bursa;Kablosuz Kulaklık;4;850;3.400 TL
+S0099;2024-03-09; Zeynep Demir  ;antalya;Telefon Kılıfı;2;150;₺300,00
+S0113;01/01/2024;Fatma Şahin;IZMIR;Powerbank;3;600;1.800 TL
+S0103;2024-06-15;Hasan Aydın;ANKARA;Akıllı Saat;5;2400;12.000 TL
+S0112;2024-05-10;Can Polat;bursa;Telefon Kılıfı;5;150;750 TL
+S0095;2024-04-19;Fatma Şahin;Bursa;Şarj Aleti;5;250;1250.00
+S0032;02/05/2024;Emine Öztürk;istanbul;Kablosuz Kulaklık;5;850;4.250,00 TL
+S0070;07/01/2024;Elif Koç;Ankara;Powerbank;5;600;3.000,00 TL
+S0085;2024-04-24; Ayşe Yılmaz  ;bursa;Bluetooth Hoparlör;4;1250;5000.00
+S0013;2024-05-10; Hasan Aydın  ;İzmir;Telefon Kılıfı;2;150;300.00
+S0140;2024-02-25;Hasan Aydın;ISTANBUL;Bluetooth Hoparlör;3;1250;3.750,00 TL
+S0074;08.06.2024;Zeynep Demir;ANKARA;Telefon Kılıfı;1;150;150,00 TL
+S0049;13/06/2024;Emine Öztürk;ISTANBUL;Şarj Aleti;3;250;750,00 TL
+S0175;2024-03-20;Hasan Aydın;izmir;Powerbank;1;600;₺600,00
+S0006;2024-04-02;Burak Kurt;Antalya;Şarj Aleti;5;250;1250.00
+S0122;2024-01-08;Ayşe Yılmaz;ankara;Bluetooth Hoparlör;3;1250;₺3.750,00
+S0198;06.06.2024;Mustafa Arslan;İzmir;Akıllı Saat;1;2400;2.400,00 TL
+S0102;30/05/2024;Ayşe Yılmaz;ankara;Bluetooth Hoparlör;5;1250;6.250,00 TL
+S0132;18.05.2024;Mustafa Arslan;Ankara;Telefon Kılıfı;2;150;₺300,00
+S0080;15/06/2024;Fatma Şahin;ankara;Bluetooth Hoparlör;5;1250;6.250 TL
+S0081;2024-03-09;Mustafa Arslan;bursa;Bluetooth Hoparlör;5;1250;6.250 TL
+S0011;21.03.2024;Ali Çelik;Istanbul;Telefon Kılıfı;5;150;750.00
+S0173;28/05/2024;Hasan Aydın;bursa;Akıllı Saat;5;2400;₺12.000,00
+S0190;05/04/2024;Emine Öztürk;IZMIR;Kablosuz Kulaklık;4;850;3.400,00 TL
+S0052;01/01/2024;Emine Öztürk;istanbul;Bluetooth Hoparlör;4;1250;₺5.000,00
+S0076;07.01.2024;Fatma Şahin;izmir;Kablosuz Kulaklık;5;850;4250.00
+S0010;15.01.2024;Ali Çelik;antalya;Telefon Kılıfı;3;150;₺450,00
+S0118;2024-04-14;Selin Aksoy;Istanbul;Bluetooth Hoparlör;2;1250;₺2.500,00
+S0017;2024-06-12;Emine Öztürk;antalya;Kablosuz Kulaklık;3;850;2550.00
+S0191;2024-03-10;Hasan Aydın;izmir;Kablosuz Kulaklık;2;850;1.700,00 TL
+S0047;2024-04-07;Ayşe Yılmaz;Ankara;Bluetooth Hoparlör;1;1250;1.250 TL
+S0162;16/04/2024;Fatma Şahin;Bursa;Powerbank;4;600;₺2.400,00
+S0123;03/03/2024;Emine Öztürk;İzmir;Akıllı Saat;2;2400;4800.00
+S0179;10.02.2024;Mustafa Arslan;antalya;Powerbank;5;600;3.000 TL
+S0119;15/06/2024;Mehmet Kaya;IZMIR;Powerbank;4;600;2.400 TL
+S0176;06.06.2024;Burak Kurt;İstanbul;Bluetooth Hoparlör;1;1250;1.250 TL
+S0045;2024-04-14;Burak Kurt;istanbul;Şarj Aleti;5;250;1250.00
+S0165;2024-01-02;Hasan Aydın;İzmir;Şarj Aleti;1;250;250 TL
+S0087;2024-03-10;Fatma Şahin;IZMIR;Bluetooth Hoparlör;4;1250;5000.00
+S0140;2024-02-25;Hasan Aydın;ISTANBUL;Bluetooth Hoparlör;3;1250;3.750,00 TL
+S0091;27.01.2024;Ayşe Yılmaz;ankara;Bluetooth Hoparlör;4;1250;5.000 TL
+S0012;23/05/2024;Emine Öztürk;izmir;Telefon Kılıfı;2;150;300 TL
+S0035;02/03/2024;Fatma Şahin;ANKARA;Bluetooth Hoparlör;3;1250;₺3.750,00
+S0086;04.04.2024;Hasan Aydın;izmir;Bluetooth Hoparlör;5;1250;₺6.250,00
+S0189;2024-05-08;Emine Öztürk;Bursa;Şarj Aleti;4;250;1000.00
+S0149;2024-03-23; Burak Kurt  ;bursa;Kablosuz Kulaklık;1;850;₺850,00
+S0027;2024-02-19;Ali Çelik;izmir;Kablosuz Kulaklık;2;850;1700.00
+S0161;07.06.2024;Ayşe Yılmaz;Istanbul;Telefon Kılıfı;2;150;300 TL
+S0169;03/03/2024;Elif Koç;İstanbul;Akıllı Saat;1;2400;2.400 TL
+S0188;2024-03-20;Hasan Aydın;ankara;Powerbank;2;600;1.200 TL
+S0062;23.05.2024;Burak Kurt;bursa;Bluetooth Hoparlör;5;1250;6.250 TL
+S0089;13.03.2024;Mehmet Kaya;Antalya;Powerbank;5;600;₺3.000,00
+S0018;2024-06-02;Mustafa Arslan;antalya;Powerbank;1;600;₺600,00
+S0092;2024-03-05; Hasan Aydın  ;izmir;Telefon Kılıfı;1;150;150 TL
+S0005;2024-01-12;Can Polat;izmir;Powerbank;3;600;1.800,00 TL
+S0192;07/01/2024; Elif Koç  ;ankara;Akıllı Saat;3;2400;7200.00
+S0065;2024-02-08;Ali Çelik;Antalya;Kablosuz Kulaklık;2;850;1.700,00 TL
+S0096;2024-02-10;Ali Çelik;Ankara;Şarj Aleti;1;250;250,00 TL
+S0100;25.06.2024;Fatma Şahin;bursa;Kablosuz Kulaklık;4;850;3.400 TL
+S0163;22/06/2024;Selin Aksoy;bursa;Kablosuz Kulaklık;3;850;2.550,00 TL
